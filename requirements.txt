@@ -6,3 +6,4 @@ gunicorn
 pymongo
 dnspython
 bcrypt
+flask_bcrypt
